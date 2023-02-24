@@ -38,8 +38,8 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 Noms des étudiants : 
 * Aramja Lina
-* Betterki Fahim
 * KAMENE Lesly
+* Betterki Fahim
 
 Date du jour : 24/02/2023
 
