@@ -52,7 +52,7 @@ Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** d
 
 Pour cet exercice, je vais appeler les collaborateurs :
 * collaborateur 1
-* collaborateur 2
+* collaborateur 2 
 * collaborateur 3
 
 selon l'ordre dans lequel vous avez mis vos noms dans la présentation.
